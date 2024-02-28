@@ -6,7 +6,11 @@ import Image from "next/image";
 import React from "react"; 
 import {FcGoogle } from "react-icons/fc";
 function login() {
-    
+    const handleLogin =async () => {
+      const provider = new GoogleAuthProvider();
+      const {user} = await signInWithPopup(auth, provider);
+      console.log({user});
+    }
 
   return(
     <div className="flex justify-center bg-login-background h-screen w-screen flex-col gap-5">
