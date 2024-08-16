@@ -6,7 +6,7 @@ This is a WhatsApp clone progressive web application built with React, Node.js, 
 
 ## Live Demo
 
-Search for "alaa eddine" and talk with me.
+
 
 [https://whatsappy-app.web.app/](https://whatsappy-app.web.app/)  
 **ALLOW NOTIFICATIONS!!!**  
