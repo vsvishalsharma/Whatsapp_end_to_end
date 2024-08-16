@@ -36,9 +36,6 @@ The app may not run because free limits of Firebase or hosting service have been
 - The app works offline; you can use it without the internet, and you can send text messages. Once you come back online, they will be automatically sent.
 - You can click on the arrow down button on the homepage, and the web app is installed on your device.
 
-## Development
-
-To run the app, set up a Firebase project, then navigate to `src/firebase` and put your config object there. Afterward, go to your project settings in Firebase, get a service account file from there, and place it in the `backend` folder. Then set up an Algolia search project and put your keys in `backend/index.js` and `src/Sidebar.js`.
 
 ## Running the App
 
