@@ -2,7 +2,7 @@
 
 This is a WhatsApp clone progressive web application built with React, Node.js, and Firebase. It allows you to send messages, talk with people, search for them, and much more.
 
-> **WARNING**: This app is just an open-source project and it doesn't have the feature of deleting your account. You will sign in with your Google account, so use a fake one. You are responsible for giving your data.
+
 
 ## Live Demo
 
